@@ -1,0 +1,3 @@
+$ cat .gitattributes
+* text=auto
+*.rb linguist-language=PHP

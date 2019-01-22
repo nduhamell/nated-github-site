@@ -1,0 +1,3 @@
+[17-Jan-2019 05:40:45 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/vxty95xs7y6u/github.myprotectedserver.com/demo/ip-address-information/index.php on line 5
+[17-Jan-2019 05:40:45 UTC] PHP Notice:  Undefined variable: referred in /home/vxty95xs7y6u/github.myprotectedserver.com/demo/ip-address-information/index.php on line 6
+[17-Jan-2019 05:51:03 UTC] PHP Notice:  Undefined variable: referred in /home/vxty95xs7y6u/github.myprotectedserver.com/demo/ip-address-information/index.php on line 6
