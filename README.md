@@ -1,4 +1,4 @@
-Simple Video Gallery
+Github Website
 ====================================
 
 Official Github Website source code for Nate Duhamell. Github Site: https://github.nated.xyz
